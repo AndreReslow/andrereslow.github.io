@@ -1,1 +1,20 @@
+# Your name, title, bio and profile links.
+# Edit the text after each colon. Keep the indentation as it is.
 
+name: André Reslow
+role: Economist · International Monetary Fund
+bio: >-
+  Payments, digital money and assets at the IMF, including cross-border
+  payments, stablecoins and CBDCs. Earlier work on macroeconomic
+  forecasting, political economy and monetary economics at
+  Sveriges Riksbank and Uppsala University.
+
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=ZFs8wyYAAAAJ
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/andr%C3%A9-reslow-a0954232/
+
+disclaimer: >-
+  Views are my own and do not necessarily represent those of the IMF,
+  its Executive Board, or IMF management.
