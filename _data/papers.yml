@@ -18,7 +18,7 @@
 - year: 2026
   type: Working paper
   title: "Deconstructing the Stablecoin Sandwich: The Cost of Cross-Border Stablecoin Transfers"
-  outlet: "IMF Working Paper, October 2026"
+  outlet: "IMF Working Paper 2026/230"
   coauthors: "with E. Reshidi, A. Usher, J. Verrier, M. Miccoli"
   links:
     - label: IMF page
@@ -31,6 +31,14 @@
   links:
     - label: IMF page
       url: https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/10/21/common-monetary-area-technical-assistance-report-project-sunbird-and-cross-border-payments-580589
+
+- year: 2026
+  type: Technical assistance
+  title: "Republic of Kazakhstan: Next Steps and Considerations for the Digital Tenge"
+  outlet: "IMF Technical Assistance Report, January 2026"
+  links:
+    - label: IMF page
+      url: https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/01/14/republic-of-kazakhstan-technical-assistance-report-next-steps-and-considerations-for-the-573143
 
 - year: 2025
   type: Policy note
