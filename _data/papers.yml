@@ -1,0 +1,221 @@
+# Your research and policy work, newest first.
+#
+# To add a paper, copy this block to the top of the list (below these
+# comment lines), change the text, and commit:
+#
+# - year: 2027
+#   type: Working paper
+#   title: "Title of the paper"
+#   outlet: "IMF Working Paper 27/001"
+#   coauthors: "with A. Name, B. Name"
+#   links:
+#     - label: PDF
+#       url: https://...
+#
+# Leave out the coauthors line for single-authored work.
+# Keep the spaces at the start of each line exactly as shown.
+
+- year: 2026
+  type: Working paper
+  title: "Deconstructing the Stablecoin Sandwich: The Cost of Cross-Border Stablecoin Transfers"
+  outlet: "IMF Working Paper, October 2026"
+  coauthors: "with E. Reshidi, A. Usher, J. Verrier, M. Miccoli"
+  links:
+    - label: IMF page
+      url: https://www.imf.org/en/publications/wp/issues/2026/10/30/deconstructing-the-stablecoin-sandwich-the-cost-of-cross-border-stablecoin-transfers-580817
+
+- year: 2026
+  type: TA report
+  title: "Common Monetary Area: Project Sunbird and Cross-Border Payments"
+  outlet: "IMF Technical Assistance Report, October 2026"
+  links:
+    - label: PDF
+      url: https://www.elibrary.imf.org/downloadpdf/view/journals/019/2026/086/019.2026.issue-086-en.pdf
+    - label: IMF page
+      url: https://www.imf.org/en/publications/technical-assistance-reports/issues/2026/10/21/common-monetary-area-technical-assistance-report-project-sunbird-and-cross-border-payments-580589
+
+- year: 2025
+  type: IMF note
+  title: "Central Bank Exploration of Tokenized Reserves"
+  outlet: "IMF Fintech Note 2025/007"
+  coauthors: "with T. Kunaratskul, A. Lannquist, N. Zhang"
+  links:
+    - label: PDF
+      url: https://www.imf.org/en/publications/fintech-notes/issues/2025/11/18/central-bank-exploration-of-tokenized-reserves-571876
+
+- year: 2024
+  type: IMF note
+  title: "Implications of Central Bank Digital Currency for Monetary Operations"
+  outlet: "IMF Fintech Note 2024/007"
+  coauthors: "with T. Kunaratskul, M. Singh"
+  links:
+    - label: PDF
+      url: https://www.imf.org/en/Publications/fintech-notes/Issues/2024/10/04/Implications-of-Central-Bank-Digital-Currency-for-Monetary-Operations-555883
+
+- year: 2024
+  type: IMF note
+  title: "Positioning Central Bank Digital Currency in the Payments Landscape"
+  outlet: "IMF Fintech Note 2024/006"
+  coauthors: "with M. Patel, S. Kasiyanto"
+  links:
+    - label: PDF
+      url: https://www.imf.org/en/Publications/fintech-notes/Issues/2024/10/02/Positioning-Central-Bank-Digital-Currency-in-the-Payments-Landscape-555743
+
+- year: 2024
+  type: IMF note
+  title: "Cross-Border Payments with Retail Central Bank Digital Currencies"
+  outlet: "IMF Fintech Note 2024/002"
+  coauthors: "with G. Söderberg, N. Tsuda"
+  links:
+    - label: PDF
+      url: https://www.imf.org/en/Publications/fintech-notes/Issues/2024/05/15/Cross-Border-Payments-with-Retail-Central-Bank-Digital-Currencies-547195
+
+- year: 2024
+  type: Working paper
+  title: "Biased Forecasts and Voting: The Brexit Referendum Case"
+  outlet: "CESifo Working Paper 11221"
+  coauthors: "with J. Bizzotto, D. Cipullo"
+  links:
+    - label: WP
+      url: https://www.cesifo.org/en/publications/2024/working-paper/biased-forecasts-and-voting-brexit-referendum-case
+
+- year: 2023
+  type: Report
+  title: "Cost of Payments in Sweden"
+  outlet: "Riksbank Studies No. 1"
+  coauthors: "with N. Engström, A. Mølgaard Pedersen, F. Linton, C. Tosteby"
+  links:
+    - label: English
+      url: https://www.riksbank.se/globalassets/media/rapporter/riksbanksstudie/engelska/2023/riksbanksstudie-cost-of-payments-in-sweden.pdf
+    - label: Swedish
+      url: https://www.riksbank.se/globalassets/media/rapporter/riksbanksstudie/svenska/2023/riksbanksstudie-kostnader-for-betalningar-i-sverige.pdf
+
+- year: 2022
+  type: Journal
+  title: "Withering Cash: Is Sweden Ahead of the Curve or Just Special?"
+  outlet: "International Journal of Central Banking 18(4)"
+  coauthors: "with H. Armelius, C. A. Claussen"
+  links:
+    - label: PDF
+      url: https://www.ijcb.org/journal/ijcb22q4a3.pdf
+    - label: WP
+      url: https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-393-withering-cash-is-sweden-ahead-of-the-curve-or-just-special.pdf
+    - label: Vox
+      url: https://voxeu.org/article/withering-cash-sweden-seems-special-rather-ahead-curve
+
+- year: 2022
+  type: Journal
+  title: "Electoral Cycles in Macroeconomic Forecasts"
+  outlet: "Journal of Economic Behavior and Organization 202"
+  coauthors: "with D. Cipullo"
+  links:
+    - label: PDF
+      url: https://www.sciencedirect.com/science/article/pii/S0167268122002906
+    - label: Brief
+      url: https://www.suerf.org/wp-content/uploads/2023/12/f_2d6893a594a808da63c6be19296bfb44_55569_suerf.pdf
+    - label: WP
+      url: https://www.riksbank.se/globalassets/media/rapporter/working-papers/2022/no.-415-electoral-cycles-in-macroeconomic-forecasts.pdf
+
+- year: 2022
+  type: Review
+  title: "Remittances: The Overlooked Payments"
+  outlet: "Riksbank Economic Review 2022:2"
+  coauthors: "with N. Engström"
+  links:
+    - label: English
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/engelska/2022/221216/2022_2-remittances--the-overlooked-payments.pdf
+    - label: Swedish
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/svenska/2022/221216/2022_2-remitteringar--de-forbisedda-betalningarna.pdf
+
+- year: 2021
+  type: PhD thesis
+  title: "Electoral Incentives and Information Content in Macroeconomic Forecasts"
+  outlet: "Uppsala University, Economic Studies 193"
+  links:
+    - label: PDF
+      url: https://drive.google.com/file/d/1ziAIiJK3iSoR-7uj6QH65u7jjId54B7b/view
+
+- year: 2021
+  type: Working paper
+  title: "Inefficient Use of Competitors’ Forecasts?"
+  outlet: "Riksbank Working Paper 380"
+  links:
+    - label: Latest
+      url: https://drive.google.com/file/d/1neqt0Q4SgJFiflPd102ynJY7ddxhBMSm/view
+    - label: WP
+      url: https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-380-inefficient-use-of-competitors-forecasts.pdf
+
+- year: 2018
+  type: Comment
+  title: "Kommentar på Johan Lönnroths artikel “Brev till den parlamentariska riksbankskommittén”"
+  outlet: "Ekonomisk Debatt 5/2018"
+  coauthors: "with J. Lindé"
+  links:
+    - label: Swedish
+      url: https://www.nationalekonomi.se/old/public_html/sites/default/files/2018/09/46-5-jlar.pdf
+
+- year: 2017
+  type: Journal
+  title: "Adjusting for Information Content when Comparing Forecast Performance"
+  outlet: "Journal of Forecasting 36"
+  coauthors: "with M. K. Andersson, T. Aranki"
+  links:
+    - label: PDF
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2470
+    - label: WP
+      url: http://archive.riksbank.se/Documents/Rapporter/Working_papers/2016/rap_wp328_160915.pdf
+    - label: Code
+      url: https://drive.google.com/file/d/1pcNhD4q9VCIzS7STDCcgWn-UGzEep5Qc/view
+
+- year: 2017
+  type: Review
+  title: "Do Swedish Forecasters Properly Account for Sweden’s International Dependence?"
+  outlet: "Riksbank Economic Review 2017:2"
+  coauthors: "with J. Lindé"
+  links:
+    - label: English
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/engelska/2017/171116/rap_pov_artikel_1_171116_eng.pdf
+    - label: Swedish
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/svenska/2017/171116/rap_pov_artikel_1_171116_sve.pdf
+
+- year: 2017
+  type: Review
+  title: "It’s a Myth that the Riksbank’s Forecasts Have Been Governed by Models"
+  outlet: "Riksbank Economic Review 2017:1"
+  coauthors: "with J. Lindé"
+  links:
+    - label: English
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/engelska/2017/170120/rap_pov_artikel_2_170120_eng.pdf
+    - label: Swedish
+      url: https://www.riksbank.se/globalassets/media/rapporter/pov/artiklar/svenska/2017/170120/rap_pov_artikel_2_170120_sve.pdf
+
+- year: 2016
+  type: Article
+  title: "En myt att Riksbankens prognoser styrts av modeller"
+  outlet: "Ekonomisk Debatt 8/2016"
+  coauthors: "with J. Lindé"
+  links:
+    - label: Swedish
+      url: https://www.nationalekonomi.se/old/public_html/sites/default/files/2016/12/44-8-jlar.pdf
+
+- year: 2015
+  type: Commentary
+  title: "An Assessment of the Riksbank’s International Forecasts"
+  outlet: "Riksbank Economic Commentaries No. 14"
+  coauthors: "with T. Aranki"
+  links:
+    - label: English
+      url: http://archive.riksbank.se/Documents/Rapporter/Ekonomiska_kommentarer/2015/rap_ek_kom_nr14_151105_eng.pdf
+    - label: Swedish
+      url: http://archive.riksbank.se/Documents/Rapporter/Ekonomiska_kommentarer/2015/rap_ek_kom_nr14_151105_sve.pdf
+
+- year: 2015
+  type: Review
+  title: "Interest and Inflation Rates through the Lens of the Theory of Irving Fisher"
+  outlet: "Riksbank Economic Review 2015:2"
+  coauthors: "with M. Jonsson"
+  links:
+    - label: English
+      url: http://archive.riksbank.se/Documents/Rapporter/POV/2015/2015_2/rap_pov_artikel_1_150917_eng.pdf
+    - label: Swedish
+      url: http://archive.riksbank.se/Documents/Rapporter/POV/2015/2015_2/rap_pov_artikel_1_150917_sve.pdf
