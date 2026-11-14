@@ -16,6 +16,17 @@
 # Keep the spaces at the start of each line exactly as shown.
 
 - year: 2026
+  type: Journal article
+  title: "Biased Forecasts and Voting"
+  outlet: "Scandinavian Journal of Economics, forthcoming"
+  coauthors: "with J. Bizzotto, D. Cipullo"
+  links:
+    - label: Journal
+      url: https://doi.org/10.1111/sjoe.70052
+    - label: Working paper
+      url: https://www.cesifo.org/en/publications/2024/working-paper/biased-forecasts-and-voting-brexit-referendum-case
+
+- year: 2026
   type: Working paper
   title: "Deconstructing the Stablecoin Sandwich: The Cost of Cross-Border Stablecoin Transfers"
   outlet: "IMF Working Paper 2026/230"
@@ -75,15 +86,6 @@
   links:
     - label: IMF page
       url: https://www.imf.org/en/Publications/fintech-notes/Issues/2024/05/15/Cross-Border-Payments-with-Retail-Central-Bank-Digital-Currencies-547195
-
-- year: 2024
-  type: Working paper
-  title: "Biased Forecasts and Voting: The Brexit Referendum Case"
-  outlet: "CESifo Working Paper 11221"
-  coauthors: "with J. Bizzotto, D. Cipullo"
-  links:
-    - label: Working paper
-      url: https://www.cesifo.org/en/publications/2024/working-paper/biased-forecasts-and-voting-brexit-referendum-case
 
 - year: 2023
   type: Report
